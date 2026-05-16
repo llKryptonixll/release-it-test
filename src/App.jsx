@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMfdsafdsafasdfR</code>
+            Edit <code>src/App.jsx</code> and save sdafsadffdsato test <code>HMfdsafdsafasdfR</code>
           </p>
         </div>
         <button type="button" className="counter" onClick={() => setCount((count) => count + 1)}>
