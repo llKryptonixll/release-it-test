@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1](https://github.com/llKryptonixll/release-it-test/compare/v1.2.0...v1.2.1) (2026-05-16)
+
+### Bug Fixes
+
+* bug fix ([0a7d891](https://github.com/llKryptonixll/release-it-test/commit/0a7d8918e057c0c6aedf4a81ba9d0bd46c6895f0))
+
 ## [1.2.0](https://github.com/llKryptonixll/release-it-test/compare/1.0.0...v1.2.0) (2026-05-16)
 
 ### Features
