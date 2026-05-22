@@ -1,5 +1,7 @@
 # Changelog
 
+## [](https://github.com/llKryptonixll/release-it-test/compare/v1.3.1...vnull) (2026-05-22)
+
 ## [](https://github.com/llKryptonixll/release-it-test/compare/v1.3.0...vnull) (2026-05-22)
 
 ### Bug Fixes
