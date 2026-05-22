@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/llKryptonixll/release-it-test/compare/v1.2.1...v1.3.0) (2026-05-22)
+
+### Features
+
+* added new file ([98ccbe5](https://github.com/llKryptonixll/release-it-test/commit/98ccbe541a1a0cd0fbb89551d6fc2d527bd9a23a))
+* added new script ([7e2d33d](https://github.com/llKryptonixll/release-it-test/commit/7e2d33d695f9f4a25ecb11a313d3dcdda787c703))
+
 ## [1.2.1](https://github.com/llKryptonixll/release-it-test/compare/v1.2.0...v1.2.1) (2026-05-16)
 
 ### Bug Fixes
